@@ -6,11 +6,11 @@ namespace SubProject3
     {
         public void Sub3()
         {
-            Console.WriteLine("SUb3");
+            Console.WriteLine("SUb3 EXT");
         }
         public Class1()
         {
-            Console.WriteLine("SUb3CTOR");
+            Console.WriteLine("SUb3CTOR -EXT");
 
         }
     }
